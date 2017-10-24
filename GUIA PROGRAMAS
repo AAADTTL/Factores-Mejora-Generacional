@@ -12,3 +12,4 @@ Modelización mediante Splines de la mortalidad para las edades de 40 a 89 años
 Función auxiliar para la proyección de la mortalidad de los distintos modelos.
 • Factores_Mejora_FINAL
 Promediado de la proyección de la mortalidad (en el caso de 40 a 89 años) y unión con la predicción de 90 a 95 años. Cálculo de los factores de mejora.
+ 
