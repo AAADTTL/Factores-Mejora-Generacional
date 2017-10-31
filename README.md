@@ -3,9 +3,9 @@ Modelización de la mortalidad nacional y cálculo de factores
 
   * Datos.zip
     Contiene los datos del INE para la construcción de los factores de mejora generacionales en el ámbito nacional.
-    
-  * Factores de mejora - Guia R.pdf
-    Guía donde se datalla cada script para la construcción de los factores de mejora generacionales.
+    
+  * Factores de mejora - Guia R.pdf
+    Guía donde se datalla cada script para la construcción de los factores de mejora generacionales.
     
   * Factores_mejora.pdf
     Metodología para la construcción de factores de mejora generacionales mediante los modelos Lee-Carter, CBD y Pspline.
